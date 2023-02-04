@@ -1,10 +1,10 @@
 # Maximum Subarray Sum In Python
 
-[ ![Longest Substring with No Repeating Characters in Python](./image.png)](https://youtu.be/fm03oRITfp8)
+[ ![Maximum Subarray Sum In Python](./image.png)](https://youtu.be/lN3iypqu-zI)
 
 This repository contains a solution to the Maximum Subarray Sum Problem in Python. The problem is all about finding the maximum sum of a continuous sequence of numbers within an array. 
 
-I also have a video walkthrough of this challenge available on my [YouTube channel](https://youtu.be/fm03oRITfp8) and [my blog](https://kalbartal.net/longest-substring-with-no-repeating-characters-in-python/)
+I also have a video walkthrough of this challenge available on my [YouTube channel](https://youtu.be/lN3iypqu-zI) and [my blog](https://kalbartal.net/maximum-subarray-sum-in-python)
 
 ## Problem Statement
 Given an array of integers, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
@@ -25,4 +25,4 @@ The time complexity of this code is O(n), where n is the length of the array. Th
 The space complexity of this code is O(n), where n is the length of the array. This is because we need to store the maximum sum of all subarrays from the beginning of the array to the current position. We are using a list to do this, and the size of the list is equal to the length of the array. Thus, the space complexity is linear. 
 
 ## Usage 
-To run this code, you need to have Python 3 installed. To execute the code, run the `maxSubarraySum.py` file.
+To run this code, you need to have Python 3 installed. To execute the code, run the `main.py` file.
